@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+h1 {
+  background: rgb(247, 145, 145);
+  padding: 20px;
+}
+h2 {
+  display: inline-block;
+  background: yellowgreen;
+  padding: 20px;
+  border-radius: 90px 40px;
+}
+p {
+  padding: 10px;
+}
+ul,
+ol {
+  list-style-position: inside;
+}
+ul {
+  list-style-type: square;
+}
+ol {
+  list-style-type: lower-roman;
+}
+li {
+  padding: 10px;
+}
+li a {
+  text-decoration: none;
+}
+
+.food-img {
+  width: 30%;
+  margin: 20px 0;
+}
